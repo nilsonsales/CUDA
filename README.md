@@ -19,6 +19,6 @@ Compiling:
  $ nvcc test.cu -o test
  ```
  
- Tutotials:  
+ Tutorials:  
 - https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf  
 - https://devblogs.nvidia.com/even-easier-introduction-cuda/  
